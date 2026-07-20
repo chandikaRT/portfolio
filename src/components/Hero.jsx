@@ -17,7 +17,7 @@ export default function Hero() {
 
         <div className="hero__links">
           <a
-            href="https://linkedin.com/in/chandika-rathnayake"
+            href="https://linkedin.com/in/chandika-rathnayake-b68909188/"
             target="_blank"
             rel="noopener noreferrer"
             className="hero__cta"

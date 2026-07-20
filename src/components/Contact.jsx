@@ -7,7 +7,7 @@ const LINKS = [
   {
     label:    'LinkedIn',
     value:    'linkedin.com/in/chandika-rathnayake',
-    href:     'https://linkedin.com/in/chandika-rathnayake',
+    href:     'https://linkedin.com/in/chandika-rathnayake-b68909188/',
     external: true,
   },
   {
