@@ -6,6 +6,7 @@ import Experience from './components/Experience.jsx'
 import Skills from './components/Skills.jsx'
 import Certifications from './components/Certifications.jsx'
 import Contact from './components/Contact.jsx'
+import { Analytics } from '@vercel/analytics/react'
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
         <Certifications />
         <Contact />
       </main>
+      <Analytics />
     </>
   )
 }
